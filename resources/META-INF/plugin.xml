@@ -1,18 +1,20 @@
 <idea-plugin>
     <id>com.yang.dialog</id>
     <name>Android Dialog</name>
-    <version>1.0</version>
+    <version>2.0</version>
     <vendor email="yang.jianan0926@gmail.com" url="https://yangxiaoge.github.io/">Bruce Yang</vendor>
 
     <description><![CDATA[
-      Generate a dialog quickly
+      Generate a dialog quickly.<br>
+      快速生成 Dialog.<br><br>
+      Click "Code" - "Android Dialog", enjoy.<br>
+      点击 "Code" - "Android Dialog", 尽情享用吧.
     ]]></description>
 
-    <!--<change-notes><![CDATA[
-      Add change notes here.<br>
-      <em>most HTML tags may be used</em>
+    <change-notes><![CDATA[
+      <li>Instructions for use<br>使用说明</li>
     ]]>
-    </change-notes>-->
+    </change-notes>
 
     <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
     <idea-version since-build="145.0"/>
